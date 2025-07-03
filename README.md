@@ -3,9 +3,6 @@
 Turn your **Netflix / Hulu / Disney+ bills + watch-time** into a shared alt-data asset.  
 Contributors keep custody of their CSV/JSON exports, earn $STREAM tokens, and buyers get a real-time panel that links **price paid** → **minutes watched** across platforms.
 
-[![CI](https://img.shields.io/github/actions/workflow/status/zulalakarsu/streamint/ci.yml?label=CI)](../../actions)
-[![Last commit](https://img.shields.io/github/last-commit/zulalakarsu/streamint)](../../commits/main)
-
 ---
 
 ## 💡 Why Streamint?
