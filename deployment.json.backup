@@ -1,0 +1,42 @@
+{
+  "dlpName": "Streamint",
+  "tokenName": "streamint-token",
+  "tokenSymbol": "STREAM",
+  "privateKey": "0x5a06d6425384e1b7112f2b669cb9e94e77dd9f2958c848c93dd8014522010fce",
+  "address": "0xF51bc457E6104b4451D808767B0a293662360A20",
+  "publicKey": "0x044b70667a1ca4208ce28e1e0e587d9a24e76a22536f263f65d751d38eb8a01266fe557d43200e035a45635fee163f49bf20c8ab994810325be57acb59b018a9fd",
+  "githubUsername": "zulalakarsu",
+  "pinataApiKey": "9fe7bc35aaa580b9dac1",
+  "pinataApiSecret": "53af6d6c2c34fb294f99ddd200775c26fee08f6604b9a3a8b44cf886ba3abddd",
+  "googleClientId": "1018338714949-e1bnv25lq9sben8nl7jsjdkkuso48g6n.apps.googleusercontent.com",
+  "googleClientSecret": "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GOCSPX-QEutVhqAnmWEt7Jq02vPbEQzzWpo",
+  "proofRepo": "https://github.com/zulalakarsu/streamint-proof",
+  "refinerRepo": "https://github.com/zulalakarsu/streamint-refiner",
+  "network": "moksha",
+  "rpcUrl": "https://rpc.moksha.vana.org",
+  "chainId": 14800,
+  "state": {
+    "contractsDeployed": true,
+    "dataDAORegistered": true,
+    "proofConfigured": true,
+    "proofPublished": true,
+    "refinerConfigured": true,
+    "refinerPublished": true,
+    "uiConfigured": false,
+    "proofGitSetup": true,
+    "refinerGitSetup": true
+  },
+  "contracts": {
+    "tokenAddress": "0xB365304C519FA6edb6ed121881D6CE0284c5191A",
+    "proxyAddress": "0x87b9Aa1eF1AC712BB377DAD85137931B4173c1e7",
+    "vestingAddress": "0x6D1949dc17d83E949D6c3A945fC0B21777Ee4b0B"
+  },
+  "tokenAddress": "0xB365304C519FA6edb6ed121881D6CE0284c5191A",
+  "proxyAddress": "0x87b9Aa1eF1AC712BB377DAD85137931B4173c1e7",
+  "vestingAddress": "0x6D1949dc17d83E949D6c3A945fC0B21777Ee4b0B",
+  "dlpId": 132,
+  "proofUrl": "https://github.com/zulalakarsu/streamint-proof/releases/download/v2/my-proof-2.tar.gz",
+  "schemaUrl": "https://gateway.pinata.cloud/ipfs/QmTgbXftzdrvraHYPLhUKoT4EX2Zu7ho6KBGUEoyjWWZ6h",
+  "refinerUrl": "https://github.com/zulalakarsu/streamint-refiner/releases/download/v1/refiner-1.tar.gz",
+  "refinerId": 123
+}
