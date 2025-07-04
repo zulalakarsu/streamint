@@ -1,0 +1,5 @@
+pgpy
+pydantic
+pydantic_settings
+requests
+sqlalchemy
