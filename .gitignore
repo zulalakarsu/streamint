@@ -3,3 +3,6 @@
 deployment.json*
 .env*
 
+# secrets
+deployment.json*
+.env*
